@@ -1,0 +1,27 @@
+.btnWarning{
+    background-color: #AF8055!important;
+    border-radius: 20px;
+    color: white;
+
+}
+.btnSuccess{
+    background-color: #236457;
+    border-radius: 20px;
+    color: white;
+}
+.btn:hover{
+    color: white;
+}
+
+.bg{
+    background-image: url(./assets/background/COFFE\ SHADES.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-muted{
+    color:  #AF8055!important;
+    ;
+}
+.textGreen{
+    color: #236457;
+}
